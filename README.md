@@ -1,5 +1,5 @@
 
-![gssoc](Images/gssoc.png)
+
 <div align="center">
 <h1 >Food Ordering Website</h1>
 
