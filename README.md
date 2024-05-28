@@ -69,9 +69,15 @@ cd FoodOrderingWebsite
 
 3.Open the index.html file in your preferred web browser to view the website locally.
   
+home page 
 
 
+![foodie](https://github.com/mayurbhat13/foodiee/assets/154245469/641d53f6-629b-4b9e-97f0-928f699a5448)
 
+footer of the website 
+
+
+![home page](https://github.com/mayurbhat13/foodiee/assets/154245469/f6026096-1c29-4881-bb6d-dc87b0e2a6d6)
 
 
 
